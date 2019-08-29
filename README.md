@@ -4,10 +4,11 @@ In this project a slightly more complex version of binary search
 trees is implemented. The trees on in this project let us search on two-dimensional spaces,
 and extensions to higher dimensional spaces should be obvious. Instead of each node
 having at most 2 children, in such trees, nodes have at most 4 children. These children called as TopLeft, TopRight, BottomLeft
-and BottomRight. You are given a (possibly very large) database of rectangles. You will represent each of
-these rectangles by objects which look like
+and BottomRight. You are given a (possibly very large) database of rectangles. These rectangle objects will look like 
 
 
+
+![alt text](http://url/to/img.png)
 
 
 
