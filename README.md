@@ -8,7 +8,7 @@ and BottomRight. You are given a (possibly very large) database of rectangles. T
 
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/ugurdumantepe0/quad_trees/blob/master/quad%20tree.png)
 
 
 
